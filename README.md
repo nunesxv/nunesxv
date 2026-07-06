@@ -3,8 +3,7 @@
  
 
 ⚙️ -Junior Software Engineer
-  javaScript , typescript
-
+  
 ## 🌐 Where to find me
 
 <p align="left">
