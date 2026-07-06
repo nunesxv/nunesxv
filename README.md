@@ -63,8 +63,8 @@
 
 ## 🚀 Philosophy
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+> _"Code isn't just about making a system work.
+> _It's about architecting honest foundations that turn failures into opportunities."_
 
 ---
 
