@@ -1,4 +1,4 @@
-# Hi 🫡, Im Lucas Xavier <img width="25" height="35" alt="1f1e7-1f1f7" src="https://github.com/user-attachments/assets/9b16af8e-64a6-44b7-bc48-94b82e62f5a6" />
+# Hi 🫡, Im Lucas Xavier
 
  
 
