@@ -63,8 +63,8 @@
 
 ## 🚀 Philosophy
 
-> _"Code isn't just about making a system work.
-> _It's about architecting honest foundations that turn failures into opportunities."_
+> "Code isn't just about making a system work.   
+> It's about architecting honest foundations that turn failures into opportunities."
 
 ---
 
