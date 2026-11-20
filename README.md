@@ -1,19 +1,23 @@
-# Hi 🫡, Im Lucas Xavier
+# Hi 🫡, I'm Lucas Xavier
 
- 
+**Full Stack & Back-end Developer** | Software Engineering Student  
+Focused on architecting scalable web applications, robust REST APIs, and high-performance databases using **Node.js**, **TypeScript**, **React**, **Next.js**, **PostgreSQL**, and **Supabase**.
 
-⚙️ -Junior Software Engineer
-  
-## 🌐 Where to find me
+## 🌐 Connect & Where to find me
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/lucas-xavier-3565b8313/">
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas_Xavier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:eng.lucasxv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-eng.lucasxv@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://github.com/nunesxv">
     <img src="https://img.shields.io/badge/GitHub-nunesxv-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/lucasnunex">
     <img src="https://img.shields.io/badge/Instagram-@lucasnunex-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
 </p>
 
 ---
@@ -40,7 +44,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 
-
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
@@ -60,14 +63,39 @@
 
 ---
 
+## 🚀 Featured Engineering Projects / Projetos em Destaque
+
+### 🛠️ [VL_Assistence — Full-Stack Technical Lab & Service Order Management](https://github.com/nunesxv/VL_Assistence_showcase)
+> Sistema completo de gestão para laboratórios de assistência técnica com integração cross-device para check-in fotográfico e governança jurídica.
+
+- **Tech Stack**: `React.js (Vite)` • `TypeScript` • `Tailwind CSS` • `Node.js` • `Express` • `Prisma ORM` • `PostgreSQL (Supabase)` • `Multer`
+- **Key Highlights**:
+  - **RESTful API & ORM**: Backend estruturado em TypeScript com Express e modelagem relacional declarativa com Prisma ORM no Supabase PostgreSQL.
+  - **Painel Financeiro Integrado**: Cálculo em tempo real de liquidez disponível, lucro líquido mensal e provisionamento automatizado para compra de peças.
+  - **Check-in Fotográfico Cross-Device**: Geração dinâmica de QR Code na bancada desktop para captura direta de evidências fotográficas em rota mobile isolada com upload multipart/form-data via Multer.
+  - **Resolução de Gargalos**: Isolamento de layout em rotas mobile para evitar vazamento visual (layout leak) e fallback condicional de hardware para câmeras de smartphone em ambientes locais.
+
+---
+
+### 📦 [SaaS Delivery Multi-Tenant — Real-Time Delivery & Merchant Platform](https://github.com/nunesxv/saas_delivery_showcase)
+> Plataforma SaaS multi-tenant unificando a experiência do consumidor (Storefront) ao painel administrativo dos lojistas (Dashboard & God Mode).
+
+- **Tech Stack**: `React.js` • `TypeScript` • `Tailwind CSS` • `Supabase (PostgreSQL)` • `Row-Level Security (RLS)` • `Realtime WebSockets` • `Vercel`
+- **Key Highlights**:
+  - **Isolamento Multi-Tenant**: Blindagem rigorosa de dados multi-tenant via Row Level Security (RLS) no PostgreSQL, prevenindo vazamentos de dados entre estabelecimentos.
+  - **Cálculo de Frete Inteligente (Haversine)**: Eliminação de dependência de APIs externas de roteamento calculando a distância por geometria esférica server-side via GPS do navegador.
+  - **Checkout Reativo**: Resumo financeiro reativo suportando Pix, Cartão e Dinheiro com recálculo instantâneo antes da submissão.
+  - **Engine de Fidelidade & Gestão de Caixa**: Regras de fidelidade personalizáveis por loja e módulo SPA para conciliação financeira de entradas (*suprimentos*) e sangrias em tempo real.
+  - **Resolução de Schema Drift**: Troubleshooting e correção de desvio de schema entre instâncias de desenvolvimento e produção Vercel sem downtime.
+
+---
+
 ## 🚀 Philosophy
 
-> "Code isn't just about making a system work.   
+> "Code isn't just about making a system work.
 > It's about architecting honest foundations that turn failures into opportunities."
 
 ---
 
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
-
-  
